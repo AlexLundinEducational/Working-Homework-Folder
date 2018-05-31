@@ -1,0 +1,4 @@
+VM Share Path for Ubuntu
+
+cd /mnt/hgfs
+cd /mnt/hgfs/GitHub
